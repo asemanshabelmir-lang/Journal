@@ -1,5 +1,0 @@
-User-agent: *
-Disallow:
-
-# Uncomment and add your sitemap URL if available
-# Sitemap: https://apps.liom.app/sitemap.xml
