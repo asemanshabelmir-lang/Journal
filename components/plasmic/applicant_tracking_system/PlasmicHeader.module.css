@@ -1,0 +1,13 @@
+.header {
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  flex-direction: row;
+  column-gap: 72px;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+}
+.headerItem:global(.__wab_instance) {
+  position: relative;
+}
