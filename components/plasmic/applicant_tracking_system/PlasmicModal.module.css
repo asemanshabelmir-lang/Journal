@@ -1,0 +1,94 @@
+.ariaDialogTrigger:global(.__wab_instance) {
+  position: relative;
+}
+.svg__dpYcm {
+  position: relative;
+  height: 1em;
+}
+.svg__jxLNn {
+  position: relative;
+  height: 1em;
+}
+.ariaModal:global(.__wab_instance) {
+  background: var(--token-RGrgGOWyJB_w);
+  display: block;
+  color: var(--token-TXwI_7j7ES_G);
+  font-family: var(--token-peg5BN3rnWL2);
+  font-size: var(--token-8bj7jzZjm0r8);
+  line-height: var(--token-VPHP1EtSWxW8);
+  outline-style: none;
+  box-shadow: 0px 24px 48px -12px #00000040;
+  border-radius: var(--token-0foQbaM8chBi);
+}
+.pcls_Se_245UoODQb {
+  background: var(--token-0fTdxRui8iSa);
+  left: 0px;
+  top: 0px;
+  z-index: 10;
+  position: fixed;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  outline: none;
+}
+.ariaDialog:global(.__wab_instance) {
+  max-width: 90vw;
+  object-fit: cover;
+  max-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  outline-style: none;
+}
+.h3___6T85K {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  font-weight: 700;
+  font-size: var(--token-ornn9ZsFsxK9);
+  min-width: 0;
+  padding: var(--token-8wjTP7T3Dk1k);
+}
+.scrollableContent {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  align-items: stretch;
+  justify-content: flex-start;
+  overflow: auto;
+  padding-left: var(--token-8wjTP7T3Dk1k);
+  padding-right: var(--token-8wjTP7T3Dk1k);
+}
+.freeBox__ufgeY {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  align-items: flex-start;
+  justify-content: flex-start;
+  row-gap: var(--token-C53jGHipSeKJ);
+}
+.text__tTkH {
+  position: relative;
+}
+.freeBox__yZvD {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  align-items: center;
+  justify-content: flex-end;
+  width: 100%;
+  min-width: 0;
+  padding: var(--token-8wjTP7T3Dk1k);
+}
+.svg__cq4Rq {
+  position: relative;
+  height: 1em;
+}
+.svg__yKo2Q {
+  position: relative;
+  height: 1em;
+}
