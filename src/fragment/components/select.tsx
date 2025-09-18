@@ -88,7 +88,7 @@ export const selectMeta: CodeComponentMeta<SelectType> = {
     },
     options: {
       type: "array",
-              defaultValue: [
+      defaultValue: [
           {
             label: "Option 1",
             value: "option1",
@@ -118,9 +118,9 @@ export const selectMeta: CodeComponentMeta<SelectType> = {
           },
         },
 
-        exprHint:
-          'An array of items, like `["Option1", "Option2"]`, or an array of objects with `value`, `label`, or `disabled`, like `[{value: "usa", label: "United States"}, {value: "bra", label: "Brazil"}]`',
       },
+        description:
+    'آرایه‌ای از مقادیر، مانند ["Option1","Option2"] یا آرایه‌ای از آبجکت‌ها مثل [{value:"usa",label:"United States"}]',
     },
     disabled: "boolean",
     name: {
