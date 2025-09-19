@@ -1,0 +1,123 @@
+.frame22 {
+  background: rgba(247, 247, 247, 1);
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  flex-direction: row;
+  column-gap: 56px;
+  align-items: flex-end;
+  justify-content: space-between;
+  position: relative;
+  border-radius: 12px;
+  padding: var(--token-xfNZeGalAnpV);
+}
+.frame23 {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  row-gap: 12px;
+  align-items: flex-start;
+  justify-content: center;
+}
+.text__yt9Ct {
+  display: block;
+  font-size: 24px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: relative;
+}
+.text__zDfbw {
+  display: block;
+  font-size: 12px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(117, 117, 117, 1);
+  position: relative;
+  width: 308px;
+}
+.frame28 {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  column-gap: 4px;
+  align-items: center;
+  justify-content: center;
+}
+.text__mOzXn {
+  display: block;
+  font-size: 12px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(0, 0, 0, 1);
+  position: relative;
+}
+.vuesaxLinearArrowRight {
+  width: 16px;
+  height: 16px;
+  display: block;
+  position: relative;
+  flex-shrink: 0;
+}
+.vuesaxLinearArrowRight2 {
+  width: 16px;
+  height: 16px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.svg__ygp17 {
+  object-fit: cover;
+  max-width: 100%;
+  color: #315bd8;
+  width: 16px;
+  height: 16px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.vuesaxLinearTrash {
+  background: rgba(255, 255, 255, 1);
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  left: auto;
+  top: var(--token-xfNZeGalAnpV);
+  right: var(--token-xfNZeGalAnpV);
+  border-radius: 100px;
+  padding: 4px;
+}
+.vuesaxLinearTrash2 {
+  width: 16px;
+  height: 16px;
+  display: block;
+  position: relative;
+  flex-shrink: 0;
+}
+.svg___5YwUk {
+  object-fit: cover;
+  max-width: 100%;
+  color: #757575;
+  width: 16px;
+  height: 16px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}

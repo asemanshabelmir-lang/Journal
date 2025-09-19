@@ -4,7 +4,7 @@ import * as React from "react";
 import {
   PlasmicSideBar,
   DefaultSideBarProps
-} from "./plasmic/applicant_tracking_system/PlasmicSideBar";
+} from "./plasmic/website_starter/PlasmicSideBar";
 import { HTMLElementRefOf } from "@plasmicapp/react-web";
 
 // Your component props start with props for variants and slots you defined

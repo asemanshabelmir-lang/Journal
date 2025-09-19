@@ -4,7 +4,7 @@ import * as React from "react";
 import {
   PlasmicCategory,
   DefaultCategoryProps
-} from "./plasmic/applicant_tracking_system/PlasmicCategory";
+} from "./plasmic/website_starter/PlasmicCategory";
 import { HTMLElementRefOf } from "@plasmicapp/react-web";
 
 // Your component props start with props for variants and slots you defined

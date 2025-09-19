@@ -1,0 +1,22 @@
+.root {
+  display: block;
+  font-size: 16px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(193, 193, 193, 1);
+  position: relative;
+  transition-property: all;
+  transition-duration: 0.1s;
+  transition-timing-function: ease-in-out;
+  -webkit-transition-property: all;
+  -webkit-transition-timing-function: ease-in-out;
+  -webkit-transition-duration: 0.1s;
+}
+.rootselect {
+  color: #315bd8;
+  font-weight: 500;
+  padding-bottom: var(--token-1uNYPDGS4IX8);
+  border-bottom: var(--token-rIQJ8jpPwZCD) solid #315bd8;
+}

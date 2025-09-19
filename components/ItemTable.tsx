@@ -4,7 +4,7 @@ import * as React from "react";
 import {
   PlasmicItemTable,
   DefaultItemTableProps
-} from "./plasmic/applicant_tracking_system/PlasmicItemTable";
+} from "./plasmic/website_starter/PlasmicItemTable";
 import { HTMLElementRefOf } from "@plasmicapp/react-web";
 
 // Your component props start with props for variants and slots you defined
